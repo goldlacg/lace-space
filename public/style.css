@@ -7,3 +7,10 @@ body {
   color: black;
   font-family: Verdana;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: 0;
+}
